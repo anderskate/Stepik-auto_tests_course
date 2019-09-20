@@ -1,3 +1,3 @@
 # Stepik - auto tests course
- Нomework for the course
-https://stepik.org/course/575/
+ 
+Это репозиторий для хранения домашних работ по курсу автоматизации тестирования на степике, https://stepik.org/course/575/.
