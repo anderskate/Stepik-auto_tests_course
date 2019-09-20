@@ -1,2 +1,2 @@
-# Stepik-auto_tests_course
+# Stepik - auto tests course
  Нomework for the course
