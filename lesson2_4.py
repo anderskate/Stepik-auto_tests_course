@@ -37,6 +37,7 @@ try:
 
     button_2 = browser.find_element_by_css_selector("[id='solve']")
     button_2.click()
+    
 
     time.sleep(1)
 
